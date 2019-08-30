@@ -1,7 +1,6 @@
 # about-me
 
 ## Repository Links
-
 -[Source Repository](https://github.com/hareeshbhuma/about-me.git)
 
 -[Hosted Page](https://hareeshbhuma.github.io/about-me/)

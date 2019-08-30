@@ -34,4 +34,4 @@ Whether you are an experienced programmer or not, below websites are intended fo
 
 My name is Bhuma and I'm currently at Northwest Missouri State University for Masters in Applied Computer Science.I'm including an image with my Favourite Bike. 
 
-![image](Bhuma.image)
+![image](https://github.com/hareeshbhuma/about-me/blob/master/Bhuma.jpg?raw=true)

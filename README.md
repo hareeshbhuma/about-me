@@ -1,9 +1,9 @@
 # about-me
 
 ## Repository Links
--[Source Repository](https://github.com/hareeshbhuma/about-me.git)
+- [Source Repository](https://github.com/hareeshbhuma/about-me.git)
 
--[Hosted Page](https://hareeshbhuma.github.io/about-me/)
+- [Hosted Page](https://hareeshbhuma.github.io/about-me/)
 
 ## About
 
@@ -11,23 +11,27 @@ This repo is being used to both share about myself and to share both tools and d
 
 ## Recommended Tools
 
-Most of your time will be spent writing code in an editor or IDE. The tutorials on editors will show you how to pick a text editor and set it up for Python development.
+Most of your time will be spent writing code in an editor or IDE. The tutorials on editors will show you how to pick a text editor and set it up for web applicaion development using Python.
 
--[Pycharm](https://www.jetbrains.com/pycharm/download/#section=windows)
+- [Tortoise Git](https://www.youtube.com/watch?v=N1KNw1tr47k)
+
+- [Pycharm](https://www.jetbrains.com/pycharm/download/#section=windows)
 
 Integrated Development Environment - [Visual Studio](https://visualstudio.microsoft.com/)
 
--[WING Python IDE](https://wingware.com/downloads/wingide-101)
+- [WING Python IDE](https://wingware.com/downloads/wingide-101)
 
 ## Recommended Resources
 
 Whether you are an experienced programmer or not, below websites are intended for everyone who wishes to learn the Python programming language.
 
--[LearnPython](https://www.learnpython.org/)
+- [LearnPython](https://www.learnpython.org/)
 
--[Codeacademy](https://www.codecademy.com/learn/learn-python)
+- [Codeacademy](https://www.codecademy.com/learn/learn-python)
 
--[Hackernoon](https://hackernoon.com/10-free-python-programming-courses-for-beginners-to-learn-online-38312f3b9912)
+- [HTML using Python](https://programminghistorian.org/en/lessons/creating-and-viewing-html-files-with-python)
+
+- [Hackernoon](https://hackernoon.com/10-free-python-programming-courses-for-beginners-to-learn-online-38312f3b9912)
 
 ## Contributors
 

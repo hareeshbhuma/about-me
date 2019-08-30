@@ -3,7 +3,8 @@
 ## Repository Links
 
 -[Source Repository](https://github.com/hareeshbhuma/about-me.git)
--[Hosted Page]()
+
+-[Hosted Page](https://hareeshbhuma.github.io/about-me/)
 
 ## About
 
@@ -31,6 +32,6 @@ Whether you are an experienced programmer or not, below websites are intended fo
 
 ## Contributors
 
-My name is Bhuma and I'm currently at Northwest Missouri State University for Masters in Applied Computer Science.I'm including an image 
+My name is Bhuma and I'm currently at Northwest Missouri State University for Masters in Applied Computer Science.I'm including an image with my Favourite Bike. 
 
 ![image](Bhuma.image)
